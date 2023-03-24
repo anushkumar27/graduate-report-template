@@ -1,8 +1,8 @@
 # About
 
-This is a latex report template for graduate students in the [Software Innovation Lab](https://research.engr.oregonstate.edu/si-lab/) at Oregon State University (OSU).
+This is a latex report template ([pdf](./report.pdf)) for graduate students in the [Software Innovation Lab](https://research.engr.oregonstate.edu/si-lab/) at Oregon State University (OSU).
 
-Note: The OSU logo is used as per [offical guidelines](https://communications.oregonstate.edu/brand-guide/using-brand).
+_Note: The OSU logo is used as per [offical guidelines](https://communications.oregonstate.edu/brand-guide/using-brand)._
 
 # Latex Installation
 
@@ -18,13 +18,11 @@ and a LaTex editor:
 
 + All platforms: [TexMaker](https://www.xm1math.net/texmaker/)
 
-You can also [upload this project](overleaf.com/learn/how-to/Uploading_a_project) as .zip to Overleaf to edit and compile the report online. 
+You can also [upload this project](https://www.overleaf.com/learn/how-to/Uploading_a_project) as .zip to Overleaf to edit and compile the report online. 
 
-# Testing and using
+# Getting Started
 
 The report's styles are defined in [`silreport.cls`](./silreport.cls) and also the title page design.
-
-## Getting Started
 
 Edit report details [`silreport.cls`](./silreport.cls) Line: 63.
 
